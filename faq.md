@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Frequently Asked Questions
+title: FAQ
 ---
-
+## Frequently Asked Questions
 ### kysymys 1
     vastaus
 ### kysymys 2
