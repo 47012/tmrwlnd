@@ -9,9 +9,7 @@ title: Bootstrap 4 Github Pages
 Olemme kokeneita kissankasvattajia jne jne jne
 
 ### Tietoa tietoa tietoa
-
-Here we have two possibilities:
-
+  
 * **Kysymys**
 
   vastaus
